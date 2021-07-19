@@ -1,0 +1,7 @@
+a[title='Participants solved the problem'] {
+    display: none;
+}
+
+a[title='Количество решивших задачу'] {
+    display: none;
+}

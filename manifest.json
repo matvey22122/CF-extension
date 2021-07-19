@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "CF-hide stats",
+  "version": "1.1.0",
+  "description": "This extension hides the number of people, who solved the problem. If you want to learn how to determine which task is easier, which one is better to solve right now, then this thing can help you.",
+  "icons": {
+    "128": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [ "https://codeforces.com/contest/*" ],
+      "css": ["app.css"]
+    }
+  ]
+}
