@@ -4,7 +4,7 @@ This extension hides the number of people, who solved the problem. If you want t
 ## Installation
 
 ###### 1. Press on green button ```Code```  in the right up corner, then press on ```Download zip```.
-###### 2. Go to the [google extensions page](chrome://extensions/ "google extensions page") and turn on ```Developer mode``` on right up corner.
+###### 2. Go to the *chrome://extensions* and turn on ```Developer mode``` on right up corner.
 ###### 3. Then, unpack .zip file, which you downloaded before, in the folder.
-###### 4. Go to the [google extensions page](chrome://extensions/ "google extensions page") and press ```Load unpacked``` on left up corner. Choose your folder.
+###### 4. Go to the *chrome://extensions* and press ```Load unpacked``` on left up corner. Choose your folder.
 ###### 5. Turn on the extension. Graduation!
